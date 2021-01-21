@@ -56,7 +56,7 @@
     "jsrsasign": "^7.1.2",
     "jsrsasign-util": "^1.0.0",
     "qrcode-terminal": "^0.11.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.4.0",
     "tar": "^3.1.5"
   },
   "devDependencies": {
